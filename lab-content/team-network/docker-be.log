@@ -1,0 +1,240 @@
+Creating network "output_new_default" with the default driver
+Creating network "output_new_net_ix_ix100" with the default driver
+Creating network "output_new_net_2_net_100_101" with the default driver
+Creating network "output_new_net_ix_ix101" with the default driver
+Creating network "output_new_net_3_net_100_102" with the default driver
+Creating network "output_new_net_ix_ix102" with the default driver
+Creating network "output_new_net_4_net_100_103" with the default driver
+Creating network "output_new_net_ix_ix103" with the default driver
+Creating network "output_new_net_5_net_100_104" with the default driver
+Creating network "output_new_net_ix_ix104" with the default driver
+Creating network "output_new_net_11_net_101_102" with the default driver
+Creating network "output_new_net_12_net_102_103" with the default driver
+Creating network "output_new_net_13_net_103_104" with the default driver
+Creating network "output_new_net_14_net_101_104" with the default driver
+Creating network "output_new_net_150_net0" with the default driver
+Creating network "output_new_net_151_net0" with the default driver
+Creating network "output_new_net_152_net0" with the default driver
+Creating network "output_new_net_153_net0" with the default driver
+Creating network "output_new_net_154_net0" with the default driver
+Creating network "output_new_net_155_net0" with the default driver
+Creating network "output_new_net_156_net0" with the default driver
+Creating network "output_new_net_157_net0" with the default driver
+Creating network "output_new_net_158_net0" with the default driver
+Creating network "output_new_net_159_net0" with the default driver
+Creating network "output_new_net_160_net0" with the default driver
+Creating network "output_new_net_161_net0" with the default driver
+Creating network "output_new_net_162_net0" with the default driver
+Creating network "output_new_net_163_net0" with the default driver
+Creating network "output_new_net_164_net0" with the default driver
+Creating network "output_new_net_165_net0" with the default driver
+Creating network "output_new_net_166_net0" with the default driver
+Creating network "output_new_net_167_net0" with the default driver
+Creating network "output_new_net_168_net0" with the default driver
+Creating network "output_new_net_169_net0" with the default driver
+Creating as169h-host_0-10.169.0.71 ... 
+Creating as11r-r101-10.101.0.11    ... 
+Creating as153r-router0-10.153.0.254 ... 
+Creating as158r-router0-10.158.0.254 ... 
+Creating as153h-host_1-10.153.0.72   ... 
+Creating as152h-host_1-10.152.0.72   ... 
+Creating as159r-router0-10.159.0.254 ... 
+Creating as3r-r100-10.100.0.3        ... 
+Creating as14r-r104-10.104.0.14      ... 
+Creating as152r-router0-10.152.0.254 ... 
+Creating as160h-host_0-10.160.0.71   ... 
+Creating as158h-host_0-10.158.0.71   ... 
+Creating as4r-r103-10.103.0.4        ... 
+Creating as14r-r101-10.101.0.14      ... 
+Creating as150r-router0-10.150.0.254 ... 
+Creating as13r-r103-10.103.0.13      ... 
+Creating as165h-host_1-10.165.0.72   ... 
+Creating as161h-host_1-10.161.0.72   ... 
+Creating as169h-host_1-10.169.0.72   ... 
+Creating as166h-host_1-10.166.0.72   ... 
+Creating as104rs-ix104-10.104.0.104  ... 
+Creating as154h-host_1-10.154.0.72   ... 
+Creating as165r-router0-10.165.0.254 ... 
+Creating as103rs-ix103-10.103.0.103  ... 
+Creating as162r-router0-10.162.0.254 ... 
+Creating as160r-router0-10.160.0.254 ... 
+Creating as165h-host_0-10.165.0.71   ... 
+Creating as161r-router0-10.161.0.254 ... 
+Creating as102rs-ix102-10.102.0.102  ... 
+Creating as166r-router0-10.166.0.254 ... 
+Creating as156h-host_0-10.156.0.71   ... 
+Creating as154h-host_0-10.154.0.71   ... 
+Creating as167r-router0-10.167.0.254 ... 
+Creating as157r-router0-10.157.0.254 ... 
+Creating as155h-host_0-10.155.0.71   ... 
+Creating as168h-host_0-10.168.0.71   ... 
+Creating as157h-host_1-10.157.0.72   ... 
+Creating as156r-router0-10.156.0.254 ... 
+Creating as153h-host_0-10.153.0.71   ... 
+Creating as5r-r104-10.104.0.5        ... 
+Creating as155r-router0-10.155.0.254 ... 
+Creating as100rs-ix100-10.100.0.100  ... 
+Creating as155h-host_1-10.155.0.72   ... 
+Creating as164h-host_1-10.164.0.72   ... 
+Creating as162h-host_0-10.162.0.71   ... 
+Creating as11r-r102-10.102.0.11      ... 
+Creating as163r-router0-10.163.0.254 ... 
+[31A[2KCreating as165h-host_1-10.165.0.72   ... [32mdone[0m[31BCreating as13r-r104-10.104.0.13      ... 
+[38A[2KCreating as160h-host_0-10.160.0.71   ... [32mdone[0m[38BCreating as164r-router0-10.164.0.254 ... 
+[38A[2KCreating as158h-host_0-10.158.0.71   ... [32mdone[0m[38BCreating as157h-host_0-10.157.0.71   ... 
+[46A[2KCreating as153h-host_1-10.153.0.72   ... [32mdone[0m[46B[50A[2KCreating as169h-host_0-10.169.0.71   ... [32mdone[0m[50BCreating as150h-host_0-10.150.0.71   ... 
+Creating as161h-host_0-10.161.0.71   ... 
+Creating output_new_cfee3a34e9c68ac1d16035a81a926786_1 ... 
+Creating as163h-host_1-10.163.0.72                     ... 
+[49A[2KCreating as152h-host_1-10.152.0.72                     ... [32mdone[0m[49BCreating as4r-r100-10.100.0.4                          ... 
+Creating as5r-r100-10.100.0.5                          ... 
+[53A[2KCreating as158r-router0-10.158.0.254                   ... [32mdone[0m[53B[55A[2KCreating as11r-r101-10.101.0.11                        ... [32mdone[0m[55BCreating as169r-router0-10.169.0.254                   ... 
+Creating as166h-host_0-10.166.0.71                     ... 
+[51A[2KCreating as3r-r100-10.100.0.3                          ... [32mdone[0m[51BCreating as156h-host_1-10.156.0.72                     ... 
+Creating as151h-host_0-10.151.0.71                     ... 
+[54A[2KCreating as159r-router0-10.159.0.254                   ... [32mdone[0m[54BCreating as167h-host_0-10.167.0.71                     ... 
+Creating as154r-router0-10.154.0.254                   ... 
+[50A[2KCreating as4r-r103-10.103.0.4                          ... [32mdone[0m[50BCreating as151r-router0-10.151.0.254                   ... 
+Creating as160h-host_1-10.160.0.72                     ... 
+[51A[2KCreating as14r-r101-10.101.0.14                        ... [32mdone[0m[51BCreating as150h-host_1-10.150.0.72                     ... 
+Creating as167h-host_1-10.167.0.72                     ... 
+[52A[2KCreating as150r-router0-10.150.0.254                   ... [32mdone[0m[52B[58A[2KCreating as14r-r104-10.104.0.14                        ... [32mdone[0m[58BCreating as159h-host_0-10.159.0.71                     ... 
+Creating as164h-host_0-10.164.0.71                     ... 
+Creating as151h-host_1-10.151.0.72                     ... 
+[60A[2KCreating as152r-router0-10.152.0.254                   ... [32mdone[0m[60BCreating as12r-r102-10.102.0.12                        ... 
+Creating as168h-host_1-10.168.0.72                     ... 
+[56A[2KCreating as13r-r103-10.103.0.13                        ... [32mdone[0m[56BCreating as2r-r100-10.100.0.2                          ... 
+Creating as101rs-ix101-10.101.0.101                    ... 
+[71A[2KCreating as153r-router0-10.153.0.254                   ... [32mdone[0m[71BCreating as159h-host_1-10.159.0.72                     ... 
+Creating as152h-host_0-10.152.0.71                     ... 
+[56A[2KCreating as166h-host_1-10.166.0.72                     ... [32mdone[0m[56BCreating as168r-router0-10.168.0.254                   ... 
+Creating as162h-host_1-10.162.0.72                     ... 
+[60A[2KCreating as161h-host_1-10.161.0.72                     ... [32mdone[0m[60BCreating as2r-r101-10.101.0.2                          ... 
+Creating as158h-host_1-10.158.0.72                     ... 
+[61A[2KCreating as169h-host_1-10.169.0.72                     ... [32mdone[0m[61BCreating as12r-r103-10.103.0.12                        ... 
+[60A[2KCreating as104rs-ix104-10.104.0.104                    ... [32mdone[0m[60B[59A[2KCreating as154h-host_1-10.154.0.72                     ... [32mdone[0m[59BCreating as3r-r102-10.102.0.3                          ... 
+[59A[2KCreating as165r-router0-10.165.0.254                   ... [32mdone[0m[59B[58A[2KCreating as103rs-ix103-10.103.0.103                    ... [32mdone[0m[58BCreating as163h-host_0-10.163.0.71                     ... 
+[54A[2KCreating as102rs-ix102-10.102.0.102                    ... [32mdone[0m[54B[56A[2KCreating as165h-host_0-10.165.0.71                     ... [32mdone[0m[56B[55A[2KCreating as161r-router0-10.161.0.254                   ... [32mdone[0m[55B[58A[2KCreating as162r-router0-10.162.0.254                   ... [32mdone[0m[58B[57A[2KCreating as160r-router0-10.160.0.254                   ... [32mdone[0m[57B[53A[2KCreating as166r-router0-10.166.0.254                   ... [32mdone[0m[53B[52A[2KCreating as156h-host_0-10.156.0.71                     ... [32mdone[0m[52B[51A[2KCreating as154h-host_0-10.154.0.71                     ... [32mdone[0m[51B[44A[2KCreating as153h-host_0-10.153.0.71                     ... [32mdone[0m[44B[47A[2KCreating as168h-host_0-10.168.0.71                     ... [32mdone[0m[47B[46A[2KCreating as157h-host_1-10.157.0.72                     ... [32mdone[0m[46B[48A[2KCreating as155h-host_0-10.155.0.71                     ... [32mdone[0m[48B[49A[2KCreating as157r-router0-10.157.0.254                   ... [32mdone[0m[49B[40A[2KCreating as155h-host_1-10.155.0.72                     ... [32mdone[0m[40B[41A[2KCreating as100rs-ix100-10.100.0.100                    ... [32mdone[0m[41B[43A[2KCreating as5r-r104-10.104.0.5                          ... [32mdone[0m[43B[38A[2KCreating as164h-host_1-10.164.0.72                     ... [32mdone[0m[38B[37A[2KCreating as162h-host_0-10.162.0.71                     ... [32mdone[0m[37B[50A[2KCreating as167r-router0-10.167.0.254                   ... [32mdone[0m[50B[33A[2KCreating as157h-host_0-10.157.0.71                     ... [32mdone[0m[33B[31A[2KCreating as161h-host_0-10.161.0.71                     ... [32mdone[0m[31B[32A[2KCreating as150h-host_0-10.150.0.71                     ... [32mdone[0m[32B[29A[2KCreating as163h-host_1-10.163.0.72                     ... [32mdone[0m[29B[36A[2KCreating as11r-r102-10.102.0.11                        ... [32mdone[0m[36B[30A[2KCreating output_new_cfee3a34e9c68ac1d16035a81a926786_1 ... [32mdone[0m[30B[45A[2KCreating as156r-router0-10.156.0.254                   ... [32mdone[0m[45B[42A[2KCreating as155r-router0-10.155.0.254                   ... [32mdone[0m[42B[35A[2KCreating as13r-r104-10.104.0.13                        ... [32mdone[0m[35B[39A[2KCreating as163r-router0-10.163.0.254                   ... [32mdone[0m[39B[14A[2KCreating as151h-host_1-10.151.0.72                     ... [32mdone[0m[14B[16A[2KCreating as159h-host_0-10.159.0.71                     ... [32mdone[0m[16B[25A[2KCreating as166h-host_0-10.166.0.71                     ... [32mdone[0m[25B[24A[2KCreating as156h-host_1-10.156.0.72                     ... [32mdone[0m[24B[15A[2KCreating as164h-host_0-10.164.0.71                     ... [32mdone[0m[15B[22A[2KCreating as167h-host_0-10.167.0.71                     ... [32mdone[0m[22B[12A[2KCreating as168h-host_1-10.168.0.72                     ... [32mdone[0m[12B[18A[2KCreating as150h-host_1-10.150.0.72                     ... [32mdone[0m[18B[19A[2KCreating as160h-host_1-10.160.0.72                     ... [32mdone[0m[19B[26A[2KCreating as169r-router0-10.169.0.254                   ... [32mdone[0m[26B[17A[2KCreating as167h-host_1-10.167.0.72                     ... [32mdone[0m[17B[4A[2KCreating as158h-host_1-10.158.0.72                     ... [32mdone[0m[4B[28A[2KCreating as4r-r100-10.100.0.4                          ... [32mdone[0m[28B[27A[2KCreating as5r-r100-10.100.0.5                          ... [32mdone[0m[27B[23A[2KCreating as151h-host_0-10.151.0.71                     ... [32mdone[0m[23B[10A[2KCreating as101rs-ix101-10.101.0.101                    ... [32mdone[0m[10B[6A[2KCreating as162h-host_1-10.162.0.72                     ... [32mdone[0m[6B[9A[2KCreating as159h-host_1-10.159.0.72                     ... [32mdone[0m[9B[34A[2KCreating as164r-router0-10.164.0.254                   ... [32mdone[0m[34B[11A[2KCreating as2r-r100-10.100.0.2                          ... [32mdone[0m[11B[1A[2KCreating as163h-host_0-10.163.0.71                     ... [32mdone[0m[1B[2A[2KCreating as3r-r102-10.102.0.3                          ... [32mdone[0m[2B[8A[2KCreating as152h-host_0-10.152.0.71                     ... [32mdone[0m[8B[21A[2KCreating as154r-router0-10.154.0.254                   ... [32mdone[0m[21B[7A[2KCreating as168r-router0-10.168.0.254                   ... [32mdone[0m[7B[13A[2KCreating as12r-r102-10.102.0.12                        ... [32mdone[0m[13B[3A[2KCreating as12r-r103-10.103.0.12                        ... [32mdone[0m[3B[5A[2KCreating as2r-r101-10.101.0.2                          ... [32mdone[0m[5B[20A[2KCreating as151r-router0-10.151.0.254                   ... [32mdone[0m[20BAttaching to as165h-host_1-10.165.0.72, as160h-host_0-10.160.0.71, as158h-host_0-10.158.0.71, as153h-host_1-10.153.0.72, as169h-host_0-10.169.0.71, as152h-host_1-10.152.0.72, as158r-router0-10.158.0.254, as11r-r101-10.101.0.11, as3r-r100-10.100.0.3, as159r-router0-10.159.0.254, as4r-r103-10.103.0.4, as14r-r101-10.101.0.14, as150r-router0-10.150.0.254, as14r-r104-10.104.0.14, as152r-router0-10.152.0.254, as13r-r103-10.103.0.13, as153r-router0-10.153.0.254, as166h-host_1-10.166.0.72, as161h-host_1-10.161.0.72, as169h-host_1-10.169.0.72, as104rs-ix104-10.104.0.104, as154h-host_1-10.154.0.72, as165r-router0-10.165.0.254, as103rs-ix103-10.103.0.103, as102rs-ix102-10.102.0.102, as165h-host_0-10.165.0.71, as161r-router0-10.161.0.254, as162r-router0-10.162.0.254, as160r-router0-10.160.0.254, as166r-router0-10.166.0.254, as156h-host_0-10.156.0.71, as154h-host_0-10.154.0.71, as153h-host_0-10.153.0.71, as168h-host_0-10.168.0.71, as157h-host_1-10.157.0.72, as155h-host_0-10.155.0.71, as157r-router0-10.157.0.254, as155h-host_1-10.155.0.72, as100rs-ix100-10.100.0.100, as5r-r104-10.104.0.5, as164h-host_1-10.164.0.72, as162h-host_0-10.162.0.71, as167r-router0-10.167.0.254, as157h-host_0-10.157.0.71, as161h-host_0-10.161.0.71, as150h-host_0-10.150.0.71, as163h-host_1-10.163.0.72, as11r-r102-10.102.0.11, output_new_cfee3a34e9c68ac1d16035a81a926786_1, as156r-router0-10.156.0.254, as155r-router0-10.155.0.254, as13r-r104-10.104.0.13, as163r-router0-10.163.0.254, as151h-host_1-10.151.0.72, as159h-host_0-10.159.0.71, as166h-host_0-10.166.0.71, as156h-host_1-10.156.0.72, as164h-host_0-10.164.0.71, as167h-host_0-10.167.0.71, as168h-host_1-10.168.0.72, as150h-host_1-10.150.0.72, as160h-host_1-10.160.0.72, as169r-router0-10.169.0.254, as167h-host_1-10.167.0.72, as158h-host_1-10.158.0.72, as4r-r100-10.100.0.4, as5r-r100-10.100.0.5, as151h-host_0-10.151.0.71, as101rs-ix101-10.101.0.101, as162h-host_1-10.162.0.72, as159h-host_1-10.159.0.72, as164r-router0-10.164.0.254, as2r-r100-10.100.0.2, as163h-host_0-10.163.0.71, as3r-r102-10.102.0.3, as152h-host_0-10.152.0.71, as154r-router0-10.154.0.254, as168r-router0-10.168.0.254, as12r-r102-10.102.0.12, as12r-r103-10.103.0.12, as2r-r101-10.101.0.2, as151r-router0-10.151.0.254
+[36mas100rs-ix100-10.100.0.100          |[0m ready! run 'docker exec -it 288de1738752 /bin/zsh' to attach to this node
+[36mas100rs-ix100-10.100.0.100          |[0m bird: Started
+[33mas101rs-ix101-10.101.0.101          |[0m ready! run 'docker exec -it 619551304d2b /bin/zsh' to attach to this node
+[33mas101rs-ix101-10.101.0.101          |[0m bird: Started
+[32mas102rs-ix102-10.102.0.102          |[0m ready! run 'docker exec -it d6a764da045e /bin/zsh' to attach to this node
+[32mas102rs-ix102-10.102.0.102          |[0m bird: Started
+[34mas104rs-ix104-10.104.0.104          |[0m ready! run 'docker exec -it f10a4945db12 /bin/zsh' to attach to this node
+[34mas104rs-ix104-10.104.0.104          |[0m bird: Started
+[35mas103rs-ix103-10.103.0.103          |[0m ready! run 'docker exec -it a0839341faad /bin/zsh' to attach to this node
+[35mas103rs-ix103-10.103.0.103          |[0m bird: Started
+[36;1mas11r-r101-10.101.0.11              |[0m ready! run 'docker exec -it 269e2fee346b /bin/zsh' to attach to this node
+[36;1mas11r-r101-10.101.0.11              |[0m bird: Started
+[33;1mas11r-r102-10.102.0.11              |[0m ready! run 'docker exec -it 6739ed7bb575 /bin/zsh' to attach to this node
+[33;1mas11r-r102-10.102.0.11              |[0m bird: Started
+[34;1mas13r-r103-10.103.0.13              |[0m ready! run 'docker exec -it 3ede3fd73d8c /bin/zsh' to attach to this node
+[34;1mas13r-r103-10.103.0.13              |[0m bird: Started
+[36mas13r-r104-10.104.0.13              |[0m ready! run 'docker exec -it 135cfdb122a4 /bin/zsh' to attach to this node
+[36mas13r-r104-10.104.0.13              |[0m bird: Started
+[32mas14r-r104-10.104.0.14              |[0m ready! run 'docker exec -it 377f5c1bbc2d /bin/zsh' to attach to this node
+[32mas14r-r104-10.104.0.14              |[0m bird: Started
+[35mas150h-host_0-10.150.0.71           |[0m ready! run 'docker exec -it 03e3b996a440 /bin/zsh' to attach to this node
+[34mas150h-host_1-10.150.0.72           |[0m ready! run 'docker exec -it 6d71361be0af /bin/zsh' to attach to this node
+[36;1mas150r-router0-10.150.0.254         |[0m ready! run 'docker exec -it 1b2b14b6d671 /bin/zsh' to attach to this node
+[36;1mas150r-router0-10.150.0.254         |[0m bird: Started
+[33;1mas151h-host_0-10.151.0.71           |[0m ready! run 'docker exec -it a4af8ab5b318 /bin/zsh' to attach to this node
+[33mas14r-r101-10.101.0.14              |[0m ready! run 'docker exec -it 47e825f742aa /bin/zsh' to attach to this node
+[33mas14r-r101-10.101.0.14              |[0m bird: Started
+[32;1mas151h-host_1-10.151.0.72           |[0m ready! run 'docker exec -it ba9503322aaa /bin/zsh' to attach to this node
+[34;1mas152h-host_0-10.152.0.71           |[0m ready! run 'docker exec -it 58225021ac4f /bin/zsh' to attach to this node
+[36mas152h-host_1-10.152.0.72           |[0m ready! run 'docker exec -it 781ce9e41a68 /bin/zsh' to attach to this node
+[33mas152r-router0-10.152.0.254         |[0m ready! run 'docker exec -it 0895cd449fb8 /bin/zsh' to attach to this node
+[33mas152r-router0-10.152.0.254         |[0m bird: Started
+[32mas153h-host_0-10.153.0.71           |[0m ready! run 'docker exec -it 97766144515f /bin/zsh' to attach to this node
+[35mas153h-host_1-10.153.0.72           |[0m ready! run 'docker exec -it fea9721b3690 /bin/zsh' to attach to this node
+[34mas153r-router0-10.153.0.254         |[0m ready! run 'docker exec -it 7fa19d92aaf0 /bin/zsh' to attach to this node
+[34mas153r-router0-10.153.0.254         |[0m bird: Started
+[36;1mas154h-host_0-10.154.0.71           |[0m ready! run 'docker exec -it 3c1238df9d71 /bin/zsh' to attach to this node
+[33;1mas154h-host_1-10.154.0.72           |[0m ready! run 'docker exec -it 1846e04d2983 /bin/zsh' to attach to this node
+[35;1mas155h-host_0-10.155.0.71           |[0m ready! run 'docker exec -it a5b881addc16 /bin/zsh' to attach to this node
+[34;1mas155h-host_1-10.155.0.72           |[0m ready! run 'docker exec -it 01dd0867b009 /bin/zsh' to attach to this node
+[36mas155r-router0-10.155.0.254         |[0m ready! run 'docker exec -it 88f186d89e9d /bin/zsh' to attach to this node
+[36mas155r-router0-10.155.0.254         |[0m bird: Started
+[33mas156h-host_0-10.156.0.71           |[0m ready! run 'docker exec -it d5764a3cb01f /bin/zsh' to attach to this node
+[32mas156h-host_1-10.156.0.72           |[0m ready! run 'docker exec -it 0d1bb3038f13 /bin/zsh' to attach to this node
+[35mas156r-router0-10.156.0.254         |[0m ready! run 'docker exec -it a033571e8481 /bin/zsh' to attach to this node
+[35mas156r-router0-10.156.0.254         |[0m bird: Started
+[34mas157h-host_0-10.157.0.71           |[0m ready! run 'docker exec -it 0670f48f274f /bin/zsh' to attach to this node
+[36;1mas157h-host_1-10.157.0.72           |[0m ready! run 'docker exec -it 63d1f7d0fd2f /bin/zsh' to attach to this node
+[33;1mas157r-router0-10.157.0.254         |[0m ready! run 'docker exec -it 517f9956f007 /bin/zsh' to attach to this node
+[33;1mas157r-router0-10.157.0.254         |[0m bird: Started
+[35;1mas158h-host_1-10.158.0.72           |[0m ready! run 'docker exec -it c0a329c1b205 /bin/zsh' to attach to this node
+[32;1mas158h-host_0-10.158.0.71           |[0m ready! run 'docker exec -it ce1e7f9d18aa /bin/zsh' to attach to this node
+[36mas159h-host_0-10.159.0.71           |[0m ready! run 'docker exec -it 62f6c30a464d /bin/zsh' to attach to this node
+[34;1mas158r-router0-10.158.0.254         |[0m ready! run 'docker exec -it ffd5954b5fcb /bin/zsh' to attach to this node
+[34;1mas158r-router0-10.158.0.254         |[0m bird: Started
+[33mas159h-host_1-10.159.0.72           |[0m ready! run 'docker exec -it 3827421d9c10 /bin/zsh' to attach to this node
+[35mas160h-host_0-10.160.0.71           |[0m ready! run 'docker exec -it 7bb06fa492c5 /bin/zsh' to attach to this node
+[32mas159r-router0-10.159.0.254         |[0m ready! run 'docker exec -it e8d9d2c18aaf /bin/zsh' to attach to this node
+[32mas159r-router0-10.159.0.254         |[0m bird: Started
+[34mas160h-host_1-10.160.0.72           |[0m ready! run 'docker exec -it 9e8d736f81d4 /bin/zsh' to attach to this node
+[36;1mas160r-router0-10.160.0.254         |[0m ready! run 'docker exec -it 12c46cce820b /bin/zsh' to attach to this node
+[36;1mas160r-router0-10.160.0.254         |[0m bird: Started
+[32;1mas161h-host_1-10.161.0.72           |[0m ready! run 'docker exec -it d4e4f7fe24c7 /bin/zsh' to attach to this node
+[33;1mas161h-host_0-10.161.0.71           |[0m ready! run 'docker exec -it 13786a7cb88e /bin/zsh' to attach to this node
+[35;1mas161r-router0-10.161.0.254         |[0m ready! run 'docker exec -it 25a336c7f7a9 /bin/zsh' to attach to this node
+[35;1mas161r-router0-10.161.0.254         |[0m bird: Started
+[34;1mas162h-host_0-10.162.0.71           |[0m ready! run 'docker exec -it 3644793b6d23 /bin/zsh' to attach to this node
+[36mas162h-host_1-10.162.0.72           |[0m ready! run 'docker exec -it 2b37a060ad23 /bin/zsh' to attach to this node
+[33mas162r-router0-10.162.0.254         |[0m ready! run 'docker exec -it bb6cec6db339 /bin/zsh' to attach to this node
+[33mas162r-router0-10.162.0.254         |[0m bird: Started
+[32mas163h-host_0-10.163.0.71           |[0m ready! run 'docker exec -it 24f9b7053529 /bin/zsh' to attach to this node
+[35mas163h-host_1-10.163.0.72           |[0m ready! run 'docker exec -it d1ecb5bfe12b /bin/zsh' to attach to this node
+[34mas163r-router0-10.163.0.254         |[0m ready! run 'docker exec -it 5875ccbbd5a4 /bin/zsh' to attach to this node
+[34mas163r-router0-10.163.0.254         |[0m bird: Started
+[36;1mas164h-host_0-10.164.0.71           |[0m ready! run 'docker exec -it 20a033318188 /bin/zsh' to attach to this node
+[33;1mas164h-host_1-10.164.0.72           |[0m ready! run 'docker exec -it 435732fd23a9 /bin/zsh' to attach to this node
+[35;1mas165h-host_0-10.165.0.71           |[0m ready! run 'docker exec -it cccfbb5cad28 /bin/zsh' to attach to this node
+[34;1mas165h-host_1-10.165.0.72           |[0m ready! run 'docker exec -it e8d3faead2b1 /bin/zsh' to attach to this node
+[36mas165r-router0-10.165.0.254         |[0m ready! run 'docker exec -it 67ae88d73a84 /bin/zsh' to attach to this node
+[36mas165r-router0-10.165.0.254         |[0m bird: Started
+[33mas166h-host_0-10.166.0.71           |[0m ready! run 'docker exec -it b45f6cd2bf1a /bin/zsh' to attach to this node
+[32mas166h-host_1-10.166.0.72           |[0m ready! run 'docker exec -it 4b9702476aa8 /bin/zsh' to attach to this node
+[35mas166r-router0-10.166.0.254         |[0m ready! run 'docker exec -it b20048c32b4b /bin/zsh' to attach to this node
+[35mas166r-router0-10.166.0.254         |[0m bird: Started
+[34mas167h-host_0-10.167.0.71           |[0m ready! run 'docker exec -it c096f05c6471 /bin/zsh' to attach to this node
+[36;1mas167h-host_1-10.167.0.72           |[0m ready! run 'docker exec -it b47e6406d93f /bin/zsh' to attach to this node
+[33;1mas167r-router0-10.167.0.254         |[0m ready! run 'docker exec -it 592c885eb052 /bin/zsh' to attach to this node
+[33;1mas167r-router0-10.167.0.254         |[0m bird: Started
+[32;1mas168h-host_0-10.168.0.71           |[0m ready! run 'docker exec -it 931ae7b0a500 /bin/zsh' to attach to this node
+[35;1mas168h-host_1-10.168.0.72           |[0m ready! run 'docker exec -it c56c48fe5637 /bin/zsh' to attach to this node
+[36mas169h-host_0-10.169.0.71           |[0m ready! run 'docker exec -it b0becef953f7 /bin/zsh' to attach to this node
+[33mas169h-host_1-10.169.0.72           |[0m ready! run 'docker exec -it f3856b7065aa /bin/zsh' to attach to this node
+[32mas169r-router0-10.169.0.254         |[0m ready! run 'docker exec -it 49baed1b8ae3 /bin/zsh' to attach to this node
+[32mas169r-router0-10.169.0.254         |[0m bird: Started
+[36;1mas3r-r100-10.100.0.3                |[0m ready! run 'docker exec -it 42228d0d76e6 /bin/zsh' to attach to this node
+[36;1mas3r-r100-10.100.0.3                |[0m bird: Started
+[32;1mas4r-r100-10.100.0.4                |[0m ready! run 'docker exec -it 144e84275eff /bin/zsh' to attach to this node
+[32;1mas4r-r100-10.100.0.4                |[0m bird: Started
+[35;1mas4r-r103-10.103.0.4                |[0m ready! run 'docker exec -it 00b58e0701b4 /bin/zsh' to attach to this node
+[35;1mas4r-r103-10.103.0.4                |[0m bird: Started
+[34;1mas5r-r100-10.100.0.5                |[0m ready! run 'docker exec -it 5ce6f6ea7a7f /bin/zsh' to attach to this node
+[34;1mas5r-r100-10.100.0.5                |[0m bird: Started
+[36mas5r-r104-10.104.0.5                |[0m ready! run 'docker exec -it 3b9637c2b36f /bin/zsh' to attach to this node
+[36mas5r-r104-10.104.0.5                |[0m bird: Started
+[33moutput_new_cfee3a34e9c68ac1d16035a81a926786_1 exited with code 0
+[0m[32;1mas164r-router0-10.164.0.254         |[0m ready! run 'docker exec -it d2e57a655b3c /bin/zsh' to attach to this node
+[32;1mas164r-router0-10.164.0.254         |[0m bird: Started
+[35mas2r-r100-10.100.0.2                |[0m ready! run 'docker exec -it ce3cb96b4c22 /bin/zsh' to attach to this node
+[35mas2r-r100-10.100.0.2                |[0m bird: Started
+[33;1mas3r-r102-10.102.0.3                |[0m ready! run 'docker exec -it 8e8b07da5820 /bin/zsh' to attach to this node
+[32;1mas154r-router0-10.154.0.254         |[0m ready! run 'docker exec -it 0aa287bf8448 /bin/zsh' to attach to this node
+[33;1mas3r-r102-10.102.0.3                |[0m bird: Started
+[32;1mas154r-router0-10.154.0.254         |[0m bird: Started
+[34;1mas168r-router0-10.168.0.254         |[0m ready! run 'docker exec -it c1b95726dd31 /bin/zsh' to attach to this node
+[34;1mas168r-router0-10.168.0.254         |[0m bird: Started
+[32;1mas12r-r102-10.102.0.12              |[0m ready! run 'docker exec -it 91f9d8becf83 /bin/zsh' to attach to this node
+[32;1mas12r-r102-10.102.0.12              |[0m bird: Started
+[34mas2r-r101-10.101.0.2                |[0m ready! run 'docker exec -it 9e419cb8fd8b /bin/zsh' to attach to this node
+[35;1mas12r-r103-10.103.0.12              |[0m ready! run 'docker exec -it cd2c5f5958ae /bin/zsh' to attach to this node
+[34mas2r-r101-10.101.0.2                |[0m bird: Started
+[35;1mas151r-router0-10.151.0.254         |[0m ready! run 'docker exec -it 4b85947cd49b /bin/zsh' to attach to this node
+[35;1mas12r-r103-10.103.0.12              |[0m bird: Started
+[35;1mas151r-router0-10.151.0.254         |[0m bird: Started
