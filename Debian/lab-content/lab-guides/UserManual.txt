@@ -1,0 +1,25 @@
+Virtual Internet User Manual
+
+On start-up this virtual machine will have a terminal window open; 
+inside this terminal you can issue various aliased commands; 
+these commands will run scripts to automatically build and launch 
+the Virtual Internet Emulator accompanied by a lab guide 
+for your desired activity.
+
+Commands For Launching Labs:
+- BGP Attack Lab via Network Prefix Hijacking: $ bgplab
+- Botnet DDOS Attack Lab: $ botnetlab
+
+Commands For Resolving Docker Errors:
+- $ clean
+ (In some cases incorrectly built networks will result in
+ errors with Docker creating network-overlap issues. Issuing
+ this command will run a script to reset Docker.)
+
+
+**NOTE: Due to some latency issues with the remote nature 
+	of the environment and the resources required for
+	building 100+ Docker containers, launching the 
+	Internet Emulator can take up to 5 minutes after 
+	issuing a command to run a startup script.**
+
